@@ -1,6 +1,4 @@
-<!-- Cabeçalho com nome -->
 <h1 align="center">Luiz Ritter</h1>
-
 <p align="center">
   Técnico em Informática • Java • Redes • Cibersegurança
 </p>
@@ -8,7 +6,7 @@
 ---
 
 🎓 **Estudante Técnico no Senac-SP**  
-Me chamo **Luiz Ritter**, sou estudante do curso Técnico em Informática no **Senac**, com foco em desenvolvimento de sistemas, redes de computadores e segurança da informação. Já trabalhei com tecnologias como **Java**, **MySQL**, **Windows Server** e ferramentas de redes como **Packet Tracer** e **VirtualBox**.
+Me chamo **Luiz Ritter**, sou estudante do curso Técnico em Informática no **Senac**, com foco em desenvolvimento de sistemas, redes de computadores e segurança da informação. Já trabalhei com tecnologias como **Java**, **MySQL**, **Windows Server** e ferramentas de redes como **Packet Tracer**, **VLSM** e **VirtualBox**.
 
 ---
 
@@ -25,11 +23,11 @@ Me chamo **Luiz Ritter**, sou estudante do curso Técnico em Informática no **S
 
 ---
 
-### 📊 Estatísticas
+### 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=radical" height="180em"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=radical" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=luizritter0x&show_icons=true&theme=radical" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizritter0x&layout=compact&theme=radical" height="180em"/>
 </p>
 
 ---
