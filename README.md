@@ -3,10 +3,11 @@
 Hoje sou estudante, procurando vagas na área.
 Estudando CyberSegurança
 
-<a href="https://beacons.ai/rafaballerini">
+<div>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username-rafaballerini2&show_icons-true&theme-dark&include_all_commits-true&count
 <img height="180em"
 </div>
+
 src="https://github-readme-stats.vercel.app/api/top-langs/?username-rafaballerini2&layout-compact&langs_count-16&theme-dark" />
 <div style="display: inline-block"><br>
 <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
