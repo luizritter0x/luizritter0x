@@ -5,7 +5,7 @@
 
 ---
 
-🎓 **Estudante Técnico no Senac-SP**  
+🎓 **Estudante Técnico no Senac-RS**  
 Me chamo **Luiz Ritter**, sou estudante do curso Técnico em Informática no **Senac**, com foco em desenvolvimento de sistemas, redes de computadores e segurança da informação. Já trabalhei com tecnologias como **Java**, **MySQL**, **Windows Server** e ferramentas de redes como **Packet Tracer**, **VLSM** e **VirtualBox**.
 
 ---
