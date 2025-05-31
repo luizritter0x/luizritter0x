@@ -1,6 +1,6 @@
 <h1 align="center">Luiz Ritter</h1>
 <p align="center">
-  Técnico em Informática • Java • Redes • Cibersegurança
+  Estudante de Segurança da Informação
 </p>
 
 ---
